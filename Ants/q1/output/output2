@@ -1,0 +1,10 @@
+Tour: 18 17 15 2 3 11 1 0 16 8 10 6 7 5 13 14 19 12 4 9 18
+Length: 467
+
+Iterations: 10000
+Chemical Exponent: 0.6
+Distance Exponent: 0.9
+Initial Deposit: 0.8
+Deposit Constant: 0.1
+Decay Rate: 0.3
+Seed: 54367
